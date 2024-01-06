@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $white;
+	background: $darkGrey;
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: $white;
 }
 
 .container {
@@ -192,7 +192,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $darkGrey;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -225,7 +225,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $darkGrey;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
