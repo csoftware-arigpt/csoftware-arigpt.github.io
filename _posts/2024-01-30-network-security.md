@@ -17,11 +17,17 @@ title: Защищаем от брутфорса ваши аккаунты и WiF
 Я вам дам пару списков по которым вы можете проверить свой пароль на наличие в базах данных:
 
 [SecLists - GitHub](https://github.com/danielmiessler/SecLists)
+
 [Список словарей - GitHub by Hob0Rules](https://github.com/praetorian-inc/Hob0Rules/tree/master/wordlists)
+
 [Софт который выкачает список паролей с сайта haveibeenpwned (Написан на C#)](https://github.com/HaveIBeenPwned/PwnedPasswordsDownloader)
+
 [Список от skullsecurity](https://wiki.skullsecurity.org/index.php/Passwords)
+
 [Список от crackstation](https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm)
+
 [Список от InsidePro (Web Archive)](https://web.archive.org/web/20120207113205/http://www.insidepro.com/eng/download.shtml)
+
 
 И это только малая часть. Все списки даны с целей проверки на наличие паролей в базах данных и не имеет цели "для взлома". Вся ответственность на вас
 
